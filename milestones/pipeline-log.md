@@ -6,3 +6,4 @@
 - Pipeline verification step 5 executed successfully.
 - Pipeline verification step 6 executed successfully.
 - Pipeline verification step 7 executed successfully.
+- Pipeline verification step 8 executed successfully.
